@@ -4,7 +4,7 @@ Welcome to NetPuppy, your friendly neighborhood web application for managing you
 
 ## Deployed Link
 
-You can access the deployed version of NetPuppy [here](https://deluxe-lollipop-0f5dc9.netlify.app/).
+You can access the deployed version of NetPuppy [here](https://figma-design-assignment-flax.vercel.app).
 
 ## Tech Stack
 
